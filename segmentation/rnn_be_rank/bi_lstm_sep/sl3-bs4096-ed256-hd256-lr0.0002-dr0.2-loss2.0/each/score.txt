@@ -1,0 +1,40 @@
+as
+== Training set ==
+:0
+:0
+:0
+as
+== Test set ==
+=== TOTAL TRUE WORDS RECALL:	0.612
+=== TOTAL TEST WORDS PRECISION:	0.698
+=== F MEASURE:	0.652
+cityu
+== Training set ==
+:0
+:0
+:0
+cityu
+== Test set ==
+=== TOTAL TRUE WORDS RECALL:	0.623
+=== TOTAL TEST WORDS PRECISION:	0.682
+=== F MEASURE:	0.651
+msr
+== Training set ==
+:0
+:0
+:0
+msr
+== Test set ==
+=== TOTAL TRUE WORDS RECALL:	0.638
+=== TOTAL TEST WORDS PRECISION:	0.697
+=== F MEASURE:	0.666
+pku
+== Training set ==
+:0
+:0
+:0
+pku
+== Test set ==
+=== TOTAL TRUE WORDS RECALL:	0.618
+=== TOTAL TEST WORDS PRECISION:	0.698
+=== F MEASURE:	0.656
