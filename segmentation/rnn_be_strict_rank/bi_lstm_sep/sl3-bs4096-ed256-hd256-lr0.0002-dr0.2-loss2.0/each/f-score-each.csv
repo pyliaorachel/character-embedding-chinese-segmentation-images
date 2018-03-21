@@ -1,0 +1,9 @@
+sl,bs,ed,hd,lr,dr,seg_algo,dataset,type,recall,precision,f-score
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,as,train,0,0,0
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,as,test,0.757,0.676,0.714
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,cityu,train,0,0,0
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,cityu,test,0.739,0.636,0.684
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,msr,train,0,0,0
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,msr,test,0.798,0.705,0.749
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,pku,train,0,0,0
+3,4096,256,256,0.0002,0.2,rnn_be_strict_rank,pku,test,0.773,0.699,0.734
