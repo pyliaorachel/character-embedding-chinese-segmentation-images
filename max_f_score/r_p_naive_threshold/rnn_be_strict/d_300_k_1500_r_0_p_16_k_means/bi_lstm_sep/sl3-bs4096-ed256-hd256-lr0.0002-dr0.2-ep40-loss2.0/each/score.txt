@@ -1,0 +1,10 @@
+pku
+== Training set ==
+:0
+:0
+:0
+pku
+== Test set ==
+=== TOTAL TRUE WORDS RECALL:	0.850
+=== TOTAL TEST WORDS PRECISION:	0.769
+=== F MEASURE:	0.808
