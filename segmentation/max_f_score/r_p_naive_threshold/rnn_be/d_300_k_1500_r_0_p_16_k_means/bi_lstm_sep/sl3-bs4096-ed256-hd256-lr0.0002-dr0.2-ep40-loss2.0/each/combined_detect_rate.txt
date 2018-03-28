@@ -1,0 +1,17 @@
+d,k,r,p,sl,bs,ed,hd,lr,dr,dataset,seg_algo_rnn,seg_algo_nt,type,1-gram,2-gram,3-gram,4-gram,5-gram-up
+300,1500,,16,3,4096,256,256,0.0002,0.2,as,rnn_be,r_p_naive_threshold,rnn,17683,42908,1560,101,7
+300,1500,,16,3,4096,256,256,0.0002,0.2,as,rnn_be,r_p_naive_threshold,nt,25418,47762,557,25,0
+300,1500,,16,3,4096,256,256,0.0002,0.2,as,rnn_be,r_p_naive_threshold,either,27962,49567,1852,118,7
+300,1500,,16,3,4096,256,256,0.0002,0.2,as,rnn_be,r_p_naive_threshold,total,41887,51940,6557,1270,208
+300,1500,,16,3,4096,256,256,0.0002,0.2,cityu,rnn_be,r_p_naive_threshold,rnn,5992,14601,562,24,0
+300,1500,,16,3,4096,256,256,0.0002,0.2,cityu,rnn_be,r_p_naive_threshold,nt,7471,16070,237,9,0
+300,1500,,16,3,4096,256,256,0.0002,0.2,cityu,rnn_be,r_p_naive_threshold,either,8514,16732,685,32,0
+300,1500,,16,3,4096,256,256,0.0002,0.2,cityu,rnn_be,r_p_naive_threshold,total,12781,17747,2478,537,121
+300,1500,,16,3,4096,256,256,0.0002,0.2,msr,rnn_be,r_p_naive_threshold,rnn,18246,43706,1566,135,9
+300,1500,,16,3,4096,256,256,0.0002,0.2,msr,rnn_be,r_p_naive_threshold,nt,21766,46917,281,4,0
+300,1500,,16,3,4096,256,256,0.0002,0.2,msr,rnn_be,r_p_naive_threshold,either,24197,48198,1683,139,9
+300,1500,,16,3,4096,256,256,0.0002,0.2,msr,rnn_be,r_p_naive_threshold,total,31841,49727,4351,2447,993
+300,1500,,16,3,4096,256,256,0.0002,0.2,pku,rnn_be,r_p_naive_threshold,rnn,17069,40559,1353,156,1
+300,1500,,16,3,4096,256,256,0.0002,0.2,pku,rnn_be,r_p_naive_threshold,nt,20761,44298,292,7,0
+300,1500,,16,3,4096,256,256,0.0002,0.2,pku,rnn_be,r_p_naive_threshold,either,23151,45673,1520,163,1
+300,1500,,16,3,4096,256,256,0.0002,0.2,pku,rnn_be,r_p_naive_threshold,total,32471,48144,4348,1765,166
