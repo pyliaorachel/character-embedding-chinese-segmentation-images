@@ -1,0 +1,34 @@
+as
+== Training set ==
+:0
+:0
+:0
+as
+== Test set ==
+output/segmentation/r_naive_threshold/d_300_k_500_k_means/pku_gen/seg_as_test.utf8: No such file or directory
+cityu
+== Training set ==
+:0
+:0
+:0
+cityu
+== Test set ==
+output/segmentation/r_naive_threshold/d_300_k_500_k_means/pku_gen/seg_cityu_test.utf8: No such file or directory
+msr
+== Training set ==
+:0
+:0
+:0
+msr
+== Test set ==
+output/segmentation/r_naive_threshold/d_300_k_500_k_means/pku_gen/seg_msr_test.utf8: No such file or directory
+pku
+== Training set ==
+:0
+:0
+:0
+pku
+== Test set ==
+=== TOTAL TRUE WORDS RECALL:	0.702
+=== TOTAL TEST WORDS PRECISION:	0.689
+=== F MEASURE:	0.695
